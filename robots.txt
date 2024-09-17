@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://poxygda.github.io/sitemap.html.gz
+Sitemap: https://poxygda.github.io/app/sitemap.html.gz
+Sitemap: https://poxygda.github.io/assets/sitemap.html.gz
+Sitemap: https://poxygda.github.io/css/sitemap.html.gz
+Sitemap: https://poxygda.github.io/includes/sitemap.html.gz
+Sitemap: https://poxygda.github.io/item/sitemap.html.gz
+Sitemap: https://poxygda.github.io/src/sitemap.html.gz
